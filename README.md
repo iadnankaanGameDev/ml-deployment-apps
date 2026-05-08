@@ -53,5 +53,3 @@ Instead of pinning every single app repository separately, this repository acts 
 ## Related Repositories
 
 - [Machine Learning Notebooks](https://github.com/iadnankaanGameDev/machine-learning-notebooks)
-- Mushroom Classification App
-- House Rent Prediction App
