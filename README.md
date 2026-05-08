@@ -10,7 +10,7 @@ Each project has its own separate repository with source code, model training no
 ## Projects
 
 | Project | Problem Type | Main Method / Model | Tools |
-|---|---|---|---|---|
+|---|---|---|---|
 | Customer Marketing Intelligence | Segmentation + Classification | KMeans, Random Forest | Python, FastAPI, scikit-learn |
 | Mushroom Classification App | Classification | Logistic Regression | Python, FastAPI, scikit-learn |
 | House Rent Prediction App | Regression | Random Forest | Python, FastAPI, scikit-learn |
