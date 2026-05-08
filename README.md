@@ -11,10 +11,10 @@ Each project has its own separate repository with source code, model training no
 
 | Project | Problem Type | Main Method / Model | Tools |
 |---|---|---|---|
-| Customer Marketing Intelligence | Segmentation + Classification | KMeans, Random Forest | Python, FastAPI, scikit-learn |
-| Mushroom Classification App | Classification | Logistic Regression | Python, FastAPI, scikit-learn |
-| House Rent Prediction App | Regression | Random Forest | Python, FastAPI, scikit-learn |
-| Used Car Price Prediction App | Regression | Random Forest / Regression Models | Python, scikit-learn |
+| [Customer Marketing Intelligence](https://github.com/iadnankaanGameDev/CustomerMarketingIntelligence) | Segmentation + Classification | KMeans, Random Forest | Python, FastAPI, scikit-learn |
+| [Poisonous Mushroom Detection](https://github.com/iadnankaanGameDev/PoisonousMushroomDetection) | Classification | Logistic Regression | Python, FastAPI, scikit-learn |
+| [Personality Detection](https://github.com/iadnankaanGameDev/PersonalityDetection) | Classification | Machine Learning Classifier | Python, FastAPI, scikit-learn |
+
 
 ---
 
@@ -22,36 +22,12 @@ Each project has its own separate repository with source code, model training no
 
 ### Classification Apps
 
-- Mushroom Classification App
-- Customer Campaign Response Prediction
-- Heart Disease Prediction App
-
-### Regression Apps
-
-- House Rent Prediction App
-- Used Car Price Prediction App
+- [Poisonous Mushroom Detection](https://github.com/iadnankaanGameDev/PoisonousMushroomDetection)
+- [Personality Detection](https://github.com/iadnankaanGameDev/PersonalityDetection)
 
 ### Segmentation & Marketing Intelligence
 
-- Customer Marketing Intelligence App
-
----
-
-## Featured Project: Customer Marketing Intelligence
-
-Customer Marketing Intelligence is a machine learning portfolio project that combines:
-
-- Customer segmentation
-- Campaign response prediction
-- Exploratory data analysis
-- Model training
-- FastAPI app deployment structure
-
-Repository:
-
-- Customer Marketing Intelligence App
-
----
+- [Customer Marketing Intelligence](https://github.com/iadnankaanGameDev/CustomerMarketingIntelligence)
 
 ## Tech Stack
 
@@ -76,7 +52,6 @@ Instead of pinning every single app repository separately, this repository acts 
 
 ## Related Repositories
 
-- Machine Learning Notebooks
-- Customer Marketing Intelligence
+- [Machine Learning Notebooks](https://github.com/iadnankaanGameDev/machine-learning-notebooks)
 - Mushroom Classification App
 - House Rent Prediction App
