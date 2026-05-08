@@ -9,13 +9,12 @@ Each project has its own separate repository with source code, model training no
 
 ## Projects
 
-| Project | Problem Type | Main Method / Model | Tools | Status |
+| Project | Problem Type | Main Method / Model | Tools |
 |---|---|---|---|---|
-| Customer Marketing Intelligence | Segmentation + Classification | KMeans, Random Forest | Python, FastAPI, scikit-learn | Completed |
-| Mushroom Classification App | Classification | Logistic Regression | Python, FastAPI, scikit-learn | Completed |
-| House Rent Prediction App | Regression | Random Forest | Python, FastAPI, scikit-learn | Completed |
-| Diamond Price Prediction App | Regression | Regression Models | Python, FastAPI, scikit-learn | Planned / In Progress |
-| Used Car Price Prediction App | Regression | Random Forest / Regression Models | Python, scikit-learn | Planned / In Progress |
+| Customer Marketing Intelligence | Segmentation + Classification | KMeans, Random Forest | Python, FastAPI, scikit-learn |
+| Mushroom Classification App | Classification | Logistic Regression | Python, FastAPI, scikit-learn |
+| House Rent Prediction App | Regression | Random Forest | Python, FastAPI, scikit-learn |
+| Used Car Price Prediction App | Regression | Random Forest / Regression Models | Python, scikit-learn |
 
 ---
 
@@ -30,7 +29,6 @@ Each project has its own separate repository with source code, model training no
 ### Regression Apps
 
 - House Rent Prediction App
-- Diamond Price Prediction App
 - Used Car Price Prediction App
 
 ### Segmentation & Marketing Intelligence
